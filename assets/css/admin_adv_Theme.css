@@ -1,0 +1,13 @@
+#menu-comments,
+#menu-settings,
+#menu-plugins,
+#menu-appearance,
+#menu-tools,
+#wpfooter,
+#contextual-help-link-wrap,
+#toplevel_page_cptui_main_menu,
+#toplevel_page_cloudinary-image-management-and-manipulation-in-the-cloud-cdn-options,
+#toplevel_page_cloudinary-image-management-and-manipulation-in-the-cloud-cdn-library,
+#toplevel_page_edit-post_type-acf-field-group {
+  display: none;
+}
