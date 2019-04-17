@@ -22,7 +22,9 @@ Simple plugin, customize wordpress admin panel
 
 ## Changelog
 
-### 1.0.0
+### 0.2.0
+
+### 0.1.0
 
 - init commit
 - Select advance seting or simple
