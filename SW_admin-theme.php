@@ -1,6 +1,6 @@
 <?php
 /*
-Plugin Name: SW_admin-theme
+Plugin Name: sw_admin-theme
 Plugin URI: warsztatkodu.pl
 Description: Customize WordPress admin theme
 Version: 1.0.1
