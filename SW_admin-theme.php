@@ -1,13 +1,19 @@
 <?php
-/*
-Plugin Name: sw_admin-theme
-Plugin URI: warsztatkodu.pl
-Description: Customize WordPress admin theme
-Version: 1.0.1
-Author: Sebastian Wesołowski
-Author URI: warsztatkodu.pl
-Copyright: Sebastian Wesołowski
-*/
+
+/**
+ * Plugin Name:      sw_admin-theme
+ * Plugin URI:       https://github.com/sebastianwesolowski/sw_admin-theme
+ * Description:      Customize WordPress admin theme
+ * Version:          1.0.1
+ * Author:           Sebastian Wesołowski
+ * Author URI:       warsztatkodu.pl, wesolowski.dev
+ * Text Domain:      sw_admin-theme
+ * Domain Path:      /resources/lang
+ * License:          MIT
+ * License URI:      http://opensource.org/licenses/MIT
+ *
+ * @package         sw_admin-theme
+ */
 
     add_action('admin_menu', function () {
         add_menu_page('Opcje szablonu', 'Opcje szablonu Page', 'manage_options', 'admin_theme_options', 'admin_theme_option');

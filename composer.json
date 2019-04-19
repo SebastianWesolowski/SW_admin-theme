@@ -16,21 +16,15 @@
     }
   ],
   "keywords": [
-    "bedrock", "composer", "roots", "wordpress", "wp", "wp-config", "plugin", "bhpwarszawa24", "gutenberg"
+    "bedrock", "composer", "roots", "wordpress", "wp", "wp-config", "plugin", "gutenberg"
   ],
   "support": {
     "issues": "https://github.com/sebastianwesolowski/sw_admin-theme/issues"
   },
   "require": {
-    "php": ">=5.6",
-    "composer/installers": "~1.0"
+    "php": "^7.1.3"
   },
   "require-dev": {
-    "squizlabs/php_codesniffer": "3.*"
-  },
-  "scripts": {
-    "test": [
-      "phpcs sw_admin-theme.php"
-    ]
+    "roave/security-advisories": "dev-master"
   }
 }
