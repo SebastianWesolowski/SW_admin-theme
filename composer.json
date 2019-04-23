@@ -1,9 +1,9 @@
 {
-  "name": "sebastianwesolowski/sw_admin-theme",
+  "name": "sebastianwesolowski/sw-admin-theme",
   "type": "wordpress-muplugin",
   "license": "MIT",
   "description": "Simple plugin, customize wordpress admin panel",
-  "homepage": "https://github.com/sebastianwesolowski/sw_admin-theme",
+  "homepage": "https://github.com/sebastianwesolowski/sw-admin-theme",
   "authors": [{
       "name": "Sebastian Wesołowski",
       "email": "sebastian@wesolowski.dev",
@@ -19,7 +19,7 @@
     "bedrock", "composer", "roots", "wordpress", "wp", "wp-config", "plugin", "gutenberg"
   ],
   "support": {
-    "issues": "https://github.com/sebastianwesolowski/sw_admin-theme/issues"
+    "issues": "https://github.com/sebastianwesolowski/sw-admin-theme/issues"
   },
   "require": {
     "php": "^7.1.3"
